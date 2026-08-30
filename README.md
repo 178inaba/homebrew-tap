@@ -8,9 +8,11 @@ The Homebrew tap for 178inaba's command-line tools.
 brew install 178inaba/tap/<name>
 ```
 
-- [rdsh](https://github.com/178inaba/rdsh) — A CLI that runs ad-hoc SQL on Redash and manages saved queries there, designed so AI coding agents can call it from a shell.
-- [cflio](https://github.com/178inaba/cflio) — A Confluence Cloud CLI built for AI coding agents.
-- [slio](https://github.com/178inaba/slio) — A read-only Slack CLI built for AI coding agents.
+where `<name>` is one of the casks:
+
+- [`rdsh`](https://github.com/178inaba/rdsh): A CLI that runs ad-hoc SQL on Redash and manages saved queries there — one command per round trip, designed so AI coding agents can call it from a shell.
+- [`cflio`](https://github.com/178inaba/cflio): A Confluence Cloud CLI built for AI coding agents.
+- [`slio`](https://github.com/178inaba/slio): A read-only Slack CLI built for AI coding agents.
 
 ## Platform
 
